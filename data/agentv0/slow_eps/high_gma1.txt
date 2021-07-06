@@ -1,0 +1,4 @@
+Max Score: 49
+Average Score: 10.33
+Games Played: 100
+Gamma, Epsilon, Alpha: 0.9 30.326532985631673 0.5

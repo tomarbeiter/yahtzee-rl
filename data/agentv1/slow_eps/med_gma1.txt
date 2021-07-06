@@ -1,0 +1,5 @@
+Max Score: 75
+Average Score: 14.98
+Median Score: 11.5
+Games Played: 100
+Gamma, Epsilon, Alpha: 0.5 60.65 0.5
